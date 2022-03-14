@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sorting-Algorithms-Visual-React-App/static/css/main.f788647a.css",
+    "main.js": "/sorting-Algorithms-Visual-React-App/static/js/main.d065f813.js",
+    "index.html": "/sorting-Algorithms-Visual-React-App/index.html",
+    "main.f788647a.css.map": "/sorting-Algorithms-Visual-React-App/static/css/main.f788647a.css.map",
+    "main.d065f813.js.map": "/sorting-Algorithms-Visual-React-App/static/js/main.d065f813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f788647a.css",
+    "static/js/main.d065f813.js"
+  ]
+}
