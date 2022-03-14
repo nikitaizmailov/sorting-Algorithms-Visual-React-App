@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Website is live and you can visit it to checkout my awesome sorting alogirthms visualiser application via the link below:
+
+link: https://nikitaizmailov.github.io/sorting-Algorithms-Visual-React-App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
