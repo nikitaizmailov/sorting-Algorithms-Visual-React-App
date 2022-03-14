@@ -1,0 +1,13 @@
+.array-container {
+  margin-top: 20px;
+}
+
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+span.buttonDiv {
+  margin: 3px;
+}
